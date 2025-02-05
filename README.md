@@ -1,0 +1,1 @@
+# Barbell-Detection-YoloV8-Pose-Model
